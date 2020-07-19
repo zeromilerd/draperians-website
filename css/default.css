@@ -136,7 +136,7 @@ a {
  ------------------------------ */
  
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Arial Black', sans-serif;
 	font-weight: normal;
 	color: #272727;
 }
@@ -697,7 +697,7 @@ ul {
 	font-family: 'Muli', sans-serif;
 }
 .great-vibes {
-	font-family: 'Great Vibes', cursive;
+	font-family: 'Arial Black', cursive;
 }
 .old-standardtt {
 	font-family: 'Old Standard TT', serif;
@@ -3025,7 +3025,7 @@ a.topbar-btn:hover, a.topbar-btn.active {
 /* section background blue
  ------------------------------ */
 .section-blue {
-	background-color: #1fbef0;
+	background-color: #1997be;
 }
 /* section background red
  ------------------------------ */
